@@ -1,2 +1,2 @@
-# YTRS-
+# YTRS.github.io
 YTRS Hub
